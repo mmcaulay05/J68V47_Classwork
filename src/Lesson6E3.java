@@ -1,2 +1,6 @@
-public class Lesson6E3 {
-}
+public class Lesson6E3
+
+
+
+
+
